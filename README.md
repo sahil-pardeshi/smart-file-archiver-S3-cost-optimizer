@@ -13,9 +13,6 @@ Tech Stack
 - AWS S3, Lambda, CloudWatch, SES
 - Python 3.13
 
-Architecture Diagram
-![Architecture](C:\Users\Nitro v\Desktop\AWS PROJEC)
-
 Setup
 1. Upload `lambda_function.py` to AWS Lambda
 2. Grant Lambda S3 & SES permissions
